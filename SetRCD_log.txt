@@ -1,0 +1,11 @@
+[2025-05-14 15:16:28] [INFO] Script started
+[2025-05-14 15:16:28] [INFO] Connecting to SharePoint Online
+[2025-05-14 15:16:28] [WARNING] Validating RCD settings for sites - No changes will be made
+[2025-05-14 15:16:40] [ERROR] Error connecting to SharePoint Online: The remote server returned an error: (400) Bad Request.
+[2025-05-14 15:27:41] [INFO] Script started
+[2025-05-14 15:27:41] [INFO] Connecting to SharePoint Online
+[2025-05-14 15:27:41] [WARNING] Validating RCD settings for sites - No changes will be made
+[2025-05-14 15:27:54] [INFO] Connected to SharePoint Online
+[2025-05-14 15:27:55] [INFO] Site: https://m365cpi77517573.sharepoint.com/sites/hr - RCD: @{RestrictContentOrgWideSearch=False}
+[2025-05-14 15:27:56] [INFO] Site: https://m365cpi77517573.sharepoint.com/sites/CEOCopilotData - RCD: @{RestrictContentOrgWideSearch=False}
+[2025-05-14 15:27:56] [INFO] Script complete

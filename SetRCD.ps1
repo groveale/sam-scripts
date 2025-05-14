@@ -78,9 +78,8 @@ foreach ($site in $sites) {
     } else {
         # Set RCD
         SetRCD $site.Url
+        Write-Host "Site: $($site.Url) - RCD set to: $rcd"
     }
-
-    
 }
 
 Write-Progress -Activity "Processing Site $currentItem / $($sites.Count)" -Status "100% Complete:" -PercentComplete 100
